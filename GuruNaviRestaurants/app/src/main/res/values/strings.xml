@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ぐるなび検索</string>
+    <string name="tv_search_name">店名</string>
+    <string name="ed_search_name_hint">店名を入力</string>
+    <string name="tv_radius">検索半径</string>
+    <string-array name="sp_range">
+        <item>300m</item>
+        <item>500m</item>
+        <item>1000m</item>
+        <item>2000m</item>
+        <item>3000m</item>
+    </string-array>
+    <string name="tv_sort">ソート</string>
+    <string-array name="sp_sort">
+        <item>指定なし</item>
+        <item>店舗名</item>
+        <item>業態</item>
+    </string-array>
+    <string name="tv_limit">絞り込み</string>
+    <string name="cb_no_smoking">禁煙席あり</string>
+    <string name="cb_private_room">個室あり</string>
+    <string name="cb_buffet">食べ放題あり</string>
+    <string name="cb_bottomless_cup">飲み放題あり</string>
+    <string name="cb_with_pet">ペット同伴可</string>
+    <string name="cb_takeout">テイクアウト</string>
+    <string name="cb_e_money">電子マネー利用可</string>
+    <string name="cb_midnight">深夜営業あり</string>
+    <string name="bt_search">検索</string>
+    <string name="tv_access">アクセス:</string>
+    <string name="tv_PR">[PR]</string>
+    <string name="tv_number">取得件数</string>
+    <string name="bt_previous">&lt;前のページ</string>
+    <string name="bt_next">次のページ&gt;</string>
+    <string name="bt_call">電話する</string>
+    <string name="confirm_dialog_title">確認</string>
+    <string name="call_confirm_dialog">電話を掛けますか?</string>
+    <string name="dialog_pos">はい</string>
+    <string name="dialog_neg">いいえ</string>
+    <string name="toast_canceled">キャンセルされました</string>
+    <string name="toast_failed">失敗しました</string>
+    <string name="bt_mobile_page">サイトへ</string>
+    <string name="tv_budget_title">平均予算</string>
+    <string name="tv_credit_card_title">クレジットカード</string>
+    <string name="tv_e_money_title">電子マネー</string>
+    <string name="no_info">情報なし</string>
+    <string name="bt_to_map">地図</string>
+    <string name="toast_retry">もう一度試してください</string>
+    <string name="please_prms_gps">GPSの使用を許可してください</string>
+    <string name="please_prms_phone">電話の使用を許可してください</string>
+</resources>

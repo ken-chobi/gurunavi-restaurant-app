@@ -1,0 +1,2 @@
+rootProject.name='GNaviRestaurants'
+include ':app'
