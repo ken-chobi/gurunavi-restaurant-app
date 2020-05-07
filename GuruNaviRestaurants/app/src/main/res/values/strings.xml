@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">ぐるなび検索</string>
     <string name="tv_search_name">店名</string>
-    <string name="ed_search_name_hint">店名を入力</string>
+    <string name="ed_search_name_hint">店名で検索</string>
     <string name="tv_radius">検索半径</string>
     <string-array name="sp_range">
         <item>300m</item>
